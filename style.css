@@ -1,0 +1,27 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #name_of_object, #start_model
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px teal;
+border-radius: 10px;
+border-color: royalblue;
+border-width: 5px;
+margin-top: 30px;
+}
+
+
